@@ -22,7 +22,7 @@ The following custom function derives that ID:
     /* __________________________________________________
 
     NAME:	    LayoutID ( )
-    PURPOSE:	Returns the Layout ID of the current layout.
+    PURPOSE:Returns the Layout ID of the current layout.
     HISTORY:
 	    19 Jul 2024, 23hr47PST — Lon Cook : created
     */
