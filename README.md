@@ -1,7 +1,7 @@
 # Configurable Navigation
 
 ![](./screens/DEMO_config_nav.gif)
-Proof of concept for slide out drawer interfaces in FileMaker Pro, with the option for a modal drawer.
+In interface configurable dropdown navigation in FileMaker Pro.
 
 [DEMO_config_nav.fmp12](DEMO_config_nav.fmp12)
 
